@@ -1,0 +1,19 @@
+{
+  "name": "jan9mon2",
+  "version": "1.0.0",
+  "description": "practicepackagejson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "geocoder": "^0.2.2",
+    "inquirer": "^2.0.0",
+    "omdb": "^0.7.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0",
+    "weather-js": "^1.0.2"
+  }
+}
